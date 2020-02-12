@@ -17,9 +17,9 @@
   "author": "GitHub",
   "license": "CC0-1.0",
   "devDependencies": {
-    "electron": "^4.1.2"
+    "electron": "^8.0.0"
   },
   "dependencies": {
-    "esm": "^3.2.22"
+    "esm": "^3.2.25"
   }
 }
